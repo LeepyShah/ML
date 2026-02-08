@@ -1,0 +1,39 @@
+Model/Technique	Practical Title Question Numbers
+Decision Trees	
+1, 2, 3, 4, 5, 6, 7, 23, 24 
+
+Support Vector Machines (SVM)	
+3, 21, 26, 29, 41, 42, 43, 70 
+
+Naïve Bayes Classifier	
+44, 45, 46, 47 
+
+Logistic Regression	
+5, 48, 49, 50 
+
+Linear Regression (Simple, Multiple, Polynomial, Gradient Descent)	
+39, 51, 52, 53, 54, 55, 56, 57 
+
+Lasso & Ridge Regression	
+58, 59, 60, 61 
+
+K-Means Clustering	
+11, 12, 13, 14 
+
+K-Medoids Clustering	
+9, 10 
+
+DBSCAN	
+15, 16, 17, 18, 19, 20 
+
+Hierarchical/Agglomerative Clustering	
+20 
+
+PCA (Dimensionality Reduction)	
+27, 30, 33, 38, 40, 62, 63, 64, 65 
+
+LDA (Dimensionality Reduction)	
+34, 35, 36, 37, 38, 66, 67, 68, 69 
+
+Random Forests (Ensemble)	
+22, 25, 31

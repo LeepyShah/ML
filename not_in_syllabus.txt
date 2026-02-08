@@ -1,0 +1,14 @@
+k-Nearest Neighbors (k-NN)
+
+
+Question 28: Demonstrate the curse of dimensionality using k-NN. 
+
+
+Question 32: Develop a k-NN classifier for the Wine dataset. 
+
+Cluster Optimization Techniques
+
+
+Question 8: Implement the Elbow Method to determine the optimal number of clusters.
+
+
